@@ -220,9 +220,3 @@ grep "authentication failure" /var/log/secure
 ## ⚠️ Aviso Legal
 
 Este projeto foi realizado **exclusivamente** em ambiente controlado para fins educacionais. O teste de penetração sem autorização explícita é ilegal e antiético.
-
----
-
-**Autor**: [Seu Nome]  
-**Data**: [Data do Projeto]  
-**Repositório**: [Link do GitHub]
